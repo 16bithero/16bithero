@@ -4,7 +4,7 @@
 - 💬 Ask me about UX/UI, Python and Java
 - 📫 How to reach me: me@renzzi.ca
 - 😄 Pronouns: he/him
-- 👾 Fun fact: 16BitHero is actually a robot name from my fave game Overwatch. (Though I play League of Legends a lot more now 🎮)
+- 👾 Fun fact: 16BitHero is actually a robot name from my fave game Overwatch.
 <!--
 **16bithero/16bithero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
