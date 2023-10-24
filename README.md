@@ -1,7 +1,7 @@
 ### Hi there, Renzzi here 👋
 
-- 🌱 I’m currently learning web dev programming, more UI/UX
-- 💬 Ask me about UX/UI, Python and Java
+- 🌱 I’m currently learning web dev programming, focusing on React
+- 💬 Ask me about UX/UI, React and Javascript
 - 📫 How to reach me: me@renzzi.ca
 - 😄 Pronouns: he/him
 - 👾 Fun fact: 16BitHero is actually a robot name from my fave game Overwatch.
